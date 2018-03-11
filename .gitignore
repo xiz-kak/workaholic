@@ -20,4 +20,10 @@
 
 .byebug_history
 
+/vendor/*
 !/vendor/.keep
+
+/client/node_modules
+
+*.swp
+.DS_Store
