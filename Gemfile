@@ -6,7 +6,6 @@ git_source(:github) do |repo_name|
 end
 
 # ----- CUSTOM -----
-gem 'foreman'
 # ------------------
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
