@@ -6,6 +6,9 @@ git_source(:github) do |repo_name|
 end
 
 # ----- CUSTOM -----
+gem 'devise'
+gem 'devise_token_auth'
+gem 'omniauth'
 # ------------------
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
